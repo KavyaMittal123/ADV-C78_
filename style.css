@@ -1,0 +1,20 @@
+h1{
+    color:red;
+    font-size:37px;
+    border-style:solid;
+    padding:15px;
+    border-color:white;
+    border-radius:25px;
+    border-width:15px;
+  }
+  #button{
+    color:red;
+    font-size:32px;
+    border-style:dott;
+    padding:15px;
+    border-color:#E040FB;
+    border-radius:25px;
+    border-width:10px;
+    font-family: Inconsolata;
+  }
+  
